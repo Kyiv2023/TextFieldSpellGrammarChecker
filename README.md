@@ -1,4 +1,4 @@
-# TextFieldSpellGrammarChecker
+# [TextFieldSpellGrammarChecker](https://github.com/Kyiv2023/TextFieldSpellGrammarChecker)
 розширення для Chrome, яке накладає перевірку правопису/граматики на вміст будь-якого текстового поля
 
 
